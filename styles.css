@@ -181,6 +181,10 @@
     outline: none;
 }
 
+.sign-up-form button:active {
+    background-color: #472596;
+}
+
 .header {
     width: 50%;
     background: linear-gradient(rgba(0, 0, 0, .8), rgba(0, 0, 0, .1)), url(images/bg2.png) center no-repeat;
